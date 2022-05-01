@@ -1,4 +1,5 @@
-<p align="right"><code><a href="https://zidan.xploit.my.id"><img title="Visitor" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" /></a></code></p>
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" />
+<img align="right" title="Visitor" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" />
 
 <h1 align="center">
   <a href="https://zidan.xploit.my.id">
@@ -82,4 +83,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
 <br>
 <img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%"/>
-<hr>
+
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
