@@ -78,3 +78,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br>
 <img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%"/>
 <hr>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
