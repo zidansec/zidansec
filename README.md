@@ -24,7 +24,7 @@ Designs, coding, and writes about IT Security, ethics, research, and dev. This s
 
 <hr>
 
-## 📝 Recent Articles:
+<h2 align="center">📝 Recent Articles 📝</h2>
 <img align="right" href="https://zidan.xploit.my.id" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
 
 * 🔗 [Cara Backconnect Server Dengan Ngrok](https://www.xploit.my.id/2021/10/cara-backconnect-server-dengan-ngrok.html)
@@ -69,3 +69,14 @@ Designs, coding, and writes about IT Security, ethics, research, and dev. This s
   <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
 </p>
 <hr>
+
+<img src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+
+<hr>
+
+<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/zidansec/ToolsBox" title="ToolsBox"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zidansec&repo=ToolsBox&theme=react&border_color=61dafb&border_radius=10"></a>
+  <a align="right" href="https://github.com/zidansec/zone-h-grabber" title="Zone-H Graber Domain"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zidansec&repo=zone-h-grabber&theme=react&border_color=61dafb&border_radius=10"></a>
+</div>
