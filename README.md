@@ -1,4 +1,4 @@
-<img href="https://zidan.xploit.my.id" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec">
+<img href="https://zidan.xploit.my.id" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zidansx.zidansx">
 
 <h1 align="center">
   <a href="https://zidan.xploit.my.id">
@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.facebook.com/XploitID" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
-  <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.twitter.com/zidansx" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
   <code><a href="https://wa.me/6289656181337" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
   <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
@@ -19,13 +19,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <div align="center">
-<img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansx&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <hr>
 
 <h2 align="center">📝 Recent Articles 📝</h2>
-<img align="right" href="https://zidan.xploit.my.id" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
+<img align="right" href="https://zidan.xploit.my.id" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=zidansx&theme=react&border=61dafb&hide_border=true">
 
 * 🔗 [Cara Backconnect Server Dengan Ngrok](https://www.xploit.my.id/2021/10/cara-backconnect-server-dengan-ngrok.html)
 * 🔗 [MITM Attack, Meretas HP Lewat Wifi](https://www.xploit.my.id/2020/07/wireless-attacking-retas-android-satu-jaringan.html)
@@ -71,10 +71,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <hr>
-<img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansx&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <hr>
 <h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
 <br>
-<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%"/>
+<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansx&theme=discord" width="100%"/>
 <hr>
