@@ -18,7 +18,7 @@
 </h5>
 
 <p align="center">
-  <code><a href="https://www.paypal.me/zidansec"><img title="C" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
+  <code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </p>
 
 <p align="center">
@@ -69,7 +69,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <code><img href="#" title="Hugo" height="25" src="images/logos-hugo.svg"></code>
   <code><img href="#" title="Docker" height="25" src="images/docker-original-wordmark.svg"></code>
   <code><img href="#" title="Linux OS" height="25" src="images/linux-original.svg"></code>
-  <code><img href="#" title="PHP" height="25" src="images/php.svg"></code>
   <code><img href="#" title="Google Cloud" height="25" src="images/google_cloud-icon.svg"></code>
   <code><img href="#" title="Google Chrome" height="25" src="images/chrome.svg"></code>
   <code><img href="#" title="Forestry" height="25" src="https://forestry.io/favicons/favicon-32x32.png"></code>
