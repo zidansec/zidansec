@@ -26,7 +26,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2 align="center">📝 Recent Articles 📝</h2>
 
+<div align="center">
+<img align="left" href="https://zidan.xploit.my.id" height="50px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
+
 <img align="right" href="https://zidan.xploit.my.id" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
+</div>
+
+<br><br>
 
 * 🔗 [Cara Backconnect Server Dengan Ngrok](https://www.xploit.my.id/2021/10/cara-backconnect-server-dengan-ngrok.html)
 * 🔗 [MITM Attack, Meretas HP Lewat Wifi](https://www.xploit.my.id/2020/07/wireless-attacking-retas-android-satu-jaringan.html)
