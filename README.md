@@ -1,4 +1,4 @@
-<img href="https://zidan.xploit.my.id" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec">
+<p align="right"><code><a href="https://www.paypal.me/zidansec"><img title="C" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" /></a></code></p>
 
 <h1 align="center">
   <a href="https://zidan.xploit.my.id">
@@ -7,12 +7,15 @@
 </h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.facebook.com/XploitID" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
+  <code><a href="https://www.facebook.com/XploitID" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
   <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
   <code><a href="https://wa.me/6289656181337" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
   <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
+
+<p align="center">
+  <code><a href="https://www.paypal.me/zidansec"><img title="C" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
+</p>
 
 <p align="center">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
@@ -26,13 +29,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <h2 align="center">📝 Recent Articles 📝</h2>
 
-<div align="center">
-<img align="left" href="https://zidan.xploit.my.id" height="50px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
-
-<img align="right" href="https://zidan.xploit.my.id" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
-</div>
-
-<br><br>
+<img align="right" href="https://zidan.xploit.my.id" height="135px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true" />
 
 * 🔗 [Cara Backconnect Server Dengan Ngrok](https://www.xploit.my.id/2021/10/cara-backconnect-server-dengan-ngrok.html)
 * 🔗 [MITM Attack, Meretas HP Lewat Wifi](https://www.xploit.my.id/2020/07/wireless-attacking-retas-android-satu-jaringan.html)
@@ -40,10 +37,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * 🔗 [Redis Vulnerability Exploit Tools](https://zidan.xploit.my.id/posts/redis-vulnerability-exploit-tools/)
 * 🔗 [Cara Upload Project Ke Github](https://zidan.xploit.my.id/posts/cara-upload-project-ke-github/)
 * 🔗 [Kumpulan List Cheat XXE](https://www.xploit.my.id/2022/03/kumpulan-list-cheat-xxe.html)
-
+  
 <hr>
 
-<h2 align="center">🔥 Languages, Frameworks And Tools 🔥</h2>
+<h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
   <code><img href="#" title="C" height="25" src="images/c.svg"></code>
@@ -75,6 +72,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   <code><img href="#" title="npm" height="25" src="images/npm.svg"></code>
   <code><img href="#" title="PHP" height="25" src="images/php.svg"></code>
   <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
+  <code><img href="#" title="GTK" height="25" src="images/GTK_logo.svg"></code>
+  <code><img href="#" title="Gatsby JS" height="25" src="images/gatsbyjs-icon.svg"></code>
+  <code><img href="#" title="Photoshop" height="25" src="images/photoshop-line.svg"></code>
+  <code><img href="#" title="Hugo" height="25" src="images/logos-hugo.svg"></code>
+  <code><img href="#" title="Docker" height="25" src="images/docker-original-wordmark.svg"></code>
+  <code><img href="#" title="Linux OS" height="25" src="images/linux-original.svg"></code>
+  <code><img href="#" title="PHP" height="25" src="images/php.svg"></code>
+  <code><img href="#" title="Google Cloud" height="25" src="images/google_cloud-icon.svg"></code>
+  <code><img href="#" title="Google Chrome" height="25" src="images/chrome.svg"></code>
+  <code><img href="#" title="Forestry" height="25" src="https://forestry.io/favicons/favicon-32x32.png"></code>
+  <code><img href="#" title="Netlify CMS" height="25" src="https://netlify.app/v3/static/favicon/favicon-32x32.png"></code>
 </p>
 
 <hr>
