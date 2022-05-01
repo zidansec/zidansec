@@ -15,12 +15,12 @@
 </h5>
 
 <p align="center">
-Designs, coding, and writes about IT Security, ethics, research, and dev. This site is where I share my experiences.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+</p>
 
 <div align="center">
 <img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
-</p>
 
 <hr>
 
@@ -35,6 +35,7 @@ Designs, coding, and writes about IT Security, ethics, research, and dev. This s
 * 🔗 [Kumpulan List Cheat XXE](https://www.xploit.my.id/2022/03/kumpulan-list-cheat-xxe.html)
 
 <hr>
+
 <h2 align="center">🔥 Languages, Frameworks And Tools 🔥</h2>
 <br>
 <p align="center">
@@ -68,15 +69,7 @@ Designs, coding, and writes about IT Security, ethics, research, and dev. This s
   <code><img href="#" title="PHP" height="25" src="images/php.svg"></code>
   <code><img href="#" title="Flask" height="25" src="images/flask.png"></code>
 </p>
-<hr>
 
+<hr>
 <img src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
 <hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/zidansec/ToolsBox" title="ToolsBox"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zidansec&repo=ToolsBox&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/zidansec/zone-h-grabber" title="Zone-H Graber Domain"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zidansec&repo=zone-h-grabber&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
