@@ -1,10 +1,14 @@
-<p align="right"><code><a href="https://www.paypal.me/zidansec"><img title="C" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" /></a></code></p>
+<p align="right"><code><a href="https://zidan.xploit.my.id"><img title="Visitor" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" /></a></code></p>
 
 <h1 align="center">
   <a href="https://zidan.xploit.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!">
+    <img width="400%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!">
   </a>
 </h1>
+
+<div align="center">
+<img height="300px" href="https://zidan.xploit.my.id" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zidansec&theme=dracula" />
+</div>
 
 <h5 align="center">
   <code><a href="https://www.facebook.com/XploitID" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
@@ -25,19 +29,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<hr>
-
-<h2 align="center">📝 Recent Articles 📝</h2>
-
-<img align="right" href="https://zidan.xploit.my.id" height="135px" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true" />
-
-* 🔗 [Cara Backconnect Server Dengan Ngrok](https://www.xploit.my.id/2021/10/cara-backconnect-server-dengan-ngrok.html)
-* 🔗 [MITM Attack, Meretas HP Lewat Wifi](https://www.xploit.my.id/2020/07/wireless-attacking-retas-android-satu-jaringan.html)
-* 🔗 [Alat Pengintai Untuk bug Bounty](https://zidan.xploit.my.id/posts/alat-pengintaian-untuk-bug-bounty/)
-* 🔗 [Redis Vulnerability Exploit Tools](https://zidan.xploit.my.id/posts/redis-vulnerability-exploit-tools/)
-* 🔗 [Cara Upload Project Ke Github](https://zidan.xploit.my.id/posts/cara-upload-project-ke-github/)
-* 🔗 [Kumpulan List Cheat XXE](https://www.xploit.my.id/2022/03/kumpulan-list-cheat-xxe.html)
-  
 <hr>
 
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
