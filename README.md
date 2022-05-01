@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec">
+<img href="https://zidan.xploit.my.id" align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://zidan.xploit.my.id">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hey%2C+I%E2%80%99m+Zidans!">
   </a>
 </h1>
@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <div align="center">
-<img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansec&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinHeinz&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
 <hr>
@@ -71,5 +71,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 <hr>
-<img src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <hr>
