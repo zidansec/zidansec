@@ -73,3 +73,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <hr>
 <img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <hr>
+
+<hr>
+<h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
+<br>
+<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%"/>
+<hr>
