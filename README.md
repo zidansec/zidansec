@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://zidan.xploit.my.id">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hey%2C+I%E2%80%99m+Zidans!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!">
   </a>
 </h1>
 
@@ -25,7 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <hr>
 
 <h2 align="center">📝 Recent Articles 📝</h2>
-<img align="right" href="https://zidan.xploit.my.id" width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
+
+<img align="right" href="https://zidan.xploit.my.id" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zidansec&theme=react&border=61dafb&hide_border=true">
 
 * 🔗 [Cara Backconnect Server Dengan Ngrok](https://www.xploit.my.id/2021/10/cara-backconnect-server-dengan-ngrok.html)
 * 🔗 [MITM Attack, Meretas HP Lewat Wifi](https://www.xploit.my.id/2020/07/wireless-attacking-retas-android-satu-jaringan.html)
