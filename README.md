@@ -23,6 +23,14 @@
 </p>
 
 <p align="center">
+  <code><img href="https://archiveprogram.github.com/" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="25"></code>
+  <code><img href="https://docs.github.com/en/developers" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="25"></code>
+  <code><img href="https://github.com/pricing" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="25"></code>
+  <code><img href="https://stars.github.com/" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" width="25"></code>
+  <code><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" width="25"></code>
+</p>
+
+<p align="center">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
 </p>
 
