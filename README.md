@@ -7,7 +7,7 @@
 	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
   <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
 	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/Build-Hugo-e06c75?style=flat&logo=hugo" /></a>
-	<a href="https://neovim.io"><img src="https://img.shields.io/badge/Build-Netlify-cyan?style=flat&logo=netlify" /></a>
+	<a href="https://neovim.io"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
 	<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
 	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
