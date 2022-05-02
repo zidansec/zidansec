@@ -1,40 +1,16 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
-name: Metrics
+name: Waka Readme
+
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 * * * *"}]
-  # Lines below let you run workflow manually and on each commit
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
   workflow_dispatch:
-  push: {branches: ["master", "main"]}
 jobs:
-  github-metrics:
+  update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: anmol098/waka-readme-stats@master
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          #  - repo
-          # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: zidansec
-          template: classic
-          base: ""
-          config_timezone: Asia/Jakarta
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_ignored: automator
-          plugin_achievements_limit: 6
-          plugin_achievements_only: explorer
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
-          plugin_discussions: yes
-          plugin_discussions_categories: yes
-          plugin_discussions_categories_limit: 10
-          plugin_traffic: yes
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
