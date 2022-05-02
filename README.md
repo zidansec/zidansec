@@ -1,6 +1,9 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" />
 <img align="right" title="Visitor" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h1 align="center">
   <a href="https://zidan.xploit.my.id">
     <img width="400%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!">
@@ -39,8 +42,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </div>
 
 <hr>
-
-<!--START_SECTION:waka-->
 
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
@@ -88,8 +89,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <hr>
 <img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<!--END_SECTION:waka-->
 
 <hr>
 <h2 align="center">🏆 GitHub Trophy 🏆</h2>
