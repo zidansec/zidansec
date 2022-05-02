@@ -68,9 +68,5 @@
       <code><img href="#" title="Docker" height="25" src="images/docker-original-wordmark.svg"></code>
       <code><img href="#" title="Google Cloud" height="25" src="images/google_cloud-icon.svg"></code>
     </p>
-  <hr>
-  <h2>🏆 GitHub Trophy 🏆</h2>
-  <br>
-  <img href="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%" />
 </details>
 </div>
