@@ -69,4 +69,5 @@
       <code><img href="#" title="Google Cloud" height="25" src="images/google_cloud-icon.svg"></code>
     </p>
 </details>
+<img title="Visitor" height="25" src="https://visitor-badge.laobi.icu/badge?page_id=zidansec.zidansec" />
 </div>
