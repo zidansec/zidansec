@@ -21,13 +21,13 @@ jobs:
           base: ""
           config_timezone: Asia/Jakarta
           plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
           plugin_pagespeed_url: .user.website
-          plugin_posts: yes
-          plugin_posts_limit: 4
-          plugin_posts_user: .user.login
           plugin_wakatime: yes
           plugin_wakatime_days: 7
+          plugin_wakatime_languages_other: yes
           plugin_wakatime_limit: 5
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_url: https://zidan.xploit.my.id
           plugin_wakatime_user: current
