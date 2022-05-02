@@ -10,9 +10,9 @@
 	<a href="https://neovim.io"><img src="https://img.shields.io/badge/Build-Netlify-cyan?style=flat&logo=netlify" /></a>
 	<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
-	<a href="https://github.com/mathletedev"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
-	<a href="mailto:mathletedev@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
-	<a href="https://discord.gg/RRfW8FrX3E"><img src="https://img.shields.io/badge/Telegram-@zidan_ra-e06c75?style=social&logo=telegram" /></a>
+	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
+	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
+	<a href="https://t.me/@zidans_ra"><img src="https://img.shields.io/badge/Telegram-@zidans_ra-e06c75?style=social&logo=telegram" /></a>
 	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
 	<br />
   <h5>
