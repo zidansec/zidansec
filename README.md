@@ -4,11 +4,11 @@
 	<p>Designs, coding, and writes about IT Security, ethics, research, and dev.</p>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
-	<a href="https://archlinux.org"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
-  <a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
-	<a href="https://xmonad.org"><img src="https://img.shields.io/badge/Build-Hugo-e06c75?style=flat&logo=hugo" /></a>
-	<a href="https://neovim.io"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
-	<a href="https://www.typescriptlang.org"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
+	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
+  <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
+	<a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Build-Hugo-e06c75?style=flat&logo=hugo" /></a>
+	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
+	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
 	<a href="https://github.com/zidansec"><img src="https://img.shields.io/github/followers/zidansec?label=Github&style=social" /></a>
 	<a href="mailto:zidansec@gmail.com/"><img src="https://img.shields.io/badge/Email-zidansec@gmail.com-e06c75?style=social&logo=gmail" /></a>
