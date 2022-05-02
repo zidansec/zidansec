@@ -22,9 +22,6 @@
   <code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </p>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <code><img href="https://archiveprogram.github.com/" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="25"></code>
   <code><img href="https://docs.github.com/en/developers" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="25"></code>
@@ -90,8 +87,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <hr>
 <img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <hr>
-<h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
+<h2 align="center">🏆 GitHub Trophy 🏆</h2>
 <br>
 <img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%"/>
 
