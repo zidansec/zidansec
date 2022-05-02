@@ -40,6 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <hr>
 
+<!--START_SECTION:waka-->
+
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
 <br>
 <p align="center">
@@ -86,8 +88,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <hr>
 <img href="https://zidan.xploit.my.id" src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-
-<!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
