@@ -15,6 +15,7 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo
           # The following additional scopes may be required:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
@@ -26,10 +27,14 @@ jobs:
           template: classic
           base: ""
           config_timezone: Asia/Jakarta
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_followup_sections: repositories
-          plugin_pagespeed: yes
-          plugin_pagespeed_detailed: yes
-          plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://zidan.xploit.my.id
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_ignored: automator
+          plugin_achievements_limit: 6
+          plugin_achievements_only: explorer
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+          plugin_discussions: yes
+          plugin_discussions_categories: yes
+          plugin_discussions_categories_limit: 10
+          plugin_traffic: yes
