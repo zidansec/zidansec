@@ -12,22 +12,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: zidansec
           template: classic
           base: ""
           config_timezone: Asia/Jakarta
+          plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: repositories
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: .user.website
-          plugin_wakatime: yes
-          plugin_wakatime_days: 7
-          plugin_wakatime_languages_other: yes
-          plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_url: https://zidan.xploit.my.id
-          plugin_wakatime_user: current
+          plugin_pagespeed_url: https://zidan.xploit.my.id
