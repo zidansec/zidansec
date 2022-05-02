@@ -22,6 +22,9 @@
   <code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <code><img href="https://archiveprogram.github.com/" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="25"></code>
   <code><img href="https://docs.github.com/en/developers" src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="25"></code>
