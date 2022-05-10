@@ -1,3 +1,6 @@
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
+</a>
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!" /></h1>
   <br />
@@ -69,5 +72,4 @@
       <code><img href="#" title="Google Cloud" height="25" src="images/google_cloud-icon.svg"></code>
     </p>
 </details>
-<code><img title="Visitor" height="25" src="https://visitcount.itsvg.in/api?id=zidansec&icon=0&color=0" /></code>
 </div>
