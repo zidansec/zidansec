@@ -19,7 +19,7 @@
 	<a href="https://youtube.com/channel/UCo6KfMw8dOZ4QGNL1RrjsBQ"><img src="https://img.shields.io/badge/YT-Exploitasi-dcdfe4?style=social&logo=youtube" /></a>
 	<br />
   <h5>
-    <code><a href="https://www.facebook.com/XploitID" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
+    <code><a href="https://www.facebook.com/zidan.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
     <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
     <code><a href="https://wa.me/6289656181337" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>
     <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
