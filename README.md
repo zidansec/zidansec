@@ -35,7 +35,7 @@
 	<summary>Show All</summary>
   <br />
     <div align="center">
-<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="50%"/>
+<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="100%"/>
 </div>
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
