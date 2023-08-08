@@ -24,15 +24,15 @@
     <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
     <!--<code><a href="https://wa.me/" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>-->
     <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-    <br /><br />
-    <code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
+    <br />
   </h5>
 
   <div align="center">
 <img height="135px" href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api?username=zidansec&rank_icon=github&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 	  <!-- wi*quL3fcV -->
-	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidansec&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" />
-</div>
+	  <img href="https://zidan.xploit.my.id" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidansec&hide=text&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&line_height=21&text_color=000&icon_color=fff&bg_color=0,c64dff,4dfcff,52fa5a&theme=graywhite" /><br />
+	  <br /><code><a href="https://www.paypal.me/zidansec"><img title="Paypal Donation" height="25" src="https://ionicabizau.github.io/badges/paypal.svg" /></a></code>
+</div><!--
   <br />
 <details>
 	<summary>Show All</summary>
@@ -77,6 +77,6 @@
       <code><img href="#" title="Docker" height="25" src="images/docker-original-wordmark.svg"></code>
       <code><img href="#" title="Google Cloud" height="25" src="images/google_cloud-icon.svg"></code>
     </p>
-</details>
+</details>-->
 </div>
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
