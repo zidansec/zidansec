@@ -22,7 +22,7 @@
   <h5>
     <code><a href="https://www.facebook.com/zidan.xploit" title="Facebook Profile"><img width="22" src="images/facebook.svg"> Facebook</a></code>
     <code><a href="https://www.twitter.com/zidansec" title="Twitter Profile"><img width="22" src="images/twitter.svg"> Twitter</a></code>
-    <!--<code><a href="https://wa.me/" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>-->
+    <!--<code><a href="https://wa.me/0" title="WhatsApp"><img width="22" src="images/whatsapp.svg"> WhatsApp</a></code>-->
     <code><a href="https://www.instagram.com/zidans_ra/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br />
   </h5>
