@@ -1,3 +1,4 @@
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient" />
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
 </a>
@@ -33,7 +34,9 @@
 <details>
 	<summary>Show All</summary>
   <br />
-    <img src="https://activity-graph.herokuapp.com/graph?username=zidansec&theme=react-dark&bg_color=20232a&hide_border=true" />
+    <div align="center">
+<img href="https://zidan.xploit.my.id" src="https://github-profile-trophy.vercel.app/?username=zidansec&theme=discord" width="50%"/>
+</div>
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
       <code><img href="#" title="C" height="25" src="images/c.svg"></code>
