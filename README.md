@@ -1,7 +1,6 @@
 <img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=header&text=Wellcome%20Back!&fontSize=50&animation=fadeIn&fontAlignY=40&desc=Let%27s%20start%20exploring%20my%20project&descAlignY=55&descAlign=55" />
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&icon=5&pretty=true" />
-</a>
+<img height="25" src="https://visitcount.itsvg.in/api?id=zidansec&label=Visitors&color=6&center=true&vCenter=true&icon=5&pretty=true" />
+
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Zidans!" /></h1>
   <br />
