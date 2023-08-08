@@ -79,3 +79,4 @@
     </p>
 </details>
 </div>
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer" />
